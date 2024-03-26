@@ -1,2 +1,1 @@
-# prueba
-hola mundo
+# Migthy Ducks Hockey League
